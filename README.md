@@ -1,2 +1,1 @@
-# Database-Project
-PLasma_Bank_Management
+Plasma_Bank_Management
